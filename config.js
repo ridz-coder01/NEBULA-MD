@@ -37,7 +37,7 @@ module.exports = {
     AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
     AUTO_TYPING: process.env.AUTO_TYPING || "false",
     MENTION_REPLY: process.env.MENTION_REPLY || "false",
-    MENU_IMAGE_URL: getConfig("MENU_IMAGE_URL") || "https://files.catbox.moe/rinv3g.jpg.png",
+    MENU_IMAGE_URL: getConfig("MENU_IMAGE_URL") || "https://files.catbox.moe/rinv3g.jpg",
 
     ANTI_DELETE: process.env.ANTI_DELETE || "true",
     ANTI_CALL: process.env.ANTI_CALL || "false",
