@@ -1,3 +1,5 @@
+## NEBULA ASSASSIN 
+
 <!-- ✨ HOLOGRAPHIC ANIMATED HEADER -->
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -10,7 +12,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 > **CURRENT BOT VERSION ➜ `2.0. ⚡`**
 ---
 
-<a><img src='https://files.catbox.moe/low80r.jpg'/></a>
+<a><img src='https://files.catbox.moe/rinv3g.jpg'/></a>
 
 <!-- ⚡ TYPING EFFECT -->
 <p align="center">
@@ -71,7 +73,9 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 - ⚙️ **Developer Tools** — text-to-speech, URL shortener, QR code generator  
 
 ---
+## PREVIEW PHOTO 
 
+<a><img src='https://files.catbox.moe/rinv3g.jpg'/></a>
 ## ⭐ Support This Project
 If you like **NEBULA-MD**, please consider:
 - ⭐ Starring this repository
