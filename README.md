@@ -2,6 +2,14 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+```
+DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
+```
+---
+
+> **CURRENT BOT VERSION ➜ `2.0. ⚡`**
+---
+
 <a><img src='https://files.catbox.moe/low80r.jpg'/></a>
 
 <!-- ⚡ TYPING EFFECT -->
@@ -37,8 +45,16 @@
 
 ---
 
+## FOR PANEL DEPLOYMENT
+- Click on **[DOWNLOAD](https://nebulabots.kesug.com)** to get zip file🗃.
+- Create a server on your panel
+- Upload zip file 🗃️
+- Unzip it and others
+- Start server
+---
+
 <p align="center">
-<a href="https://nebula-session.onrender.com/">
+<a href="https://nebulabots.kesug.com/">
 <img src="https://img.shields.io/badge/GET%20SESSION%20ID-ff007f?style=for-the-badge&logo=keybase&logoColor=white">
 </a>
 </p>
