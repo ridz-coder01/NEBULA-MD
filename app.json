@@ -1,7 +1,7 @@
 {
   "name": "NEBULA-MD",
   "description": "Javascript WhatsApp bot made by Ridz Coder",
-  "logo": "https://i.ibb.co/3YPxH8gT/file-00000000e89461f7ac47442cb1bd85f4.png",
+  "logo": "https://files.catbox.moe/rinv3g.jpg",
   "keywords": ["NEBULA-MD"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "NEBULA-MD"
+      "value": "NEBULA-ASSASSIN"
     }, 
       
     "PREFIX": {
@@ -78,7 +78,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY NEBULA-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY NEBULA-ASSASSIN 🖤*"
    
      }, 
     
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "NEBULA-MD"
+      "value": "NEBULA-ASSASSIN"
 
       }, 
 
@@ -124,7 +124,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://i.ibb.co/T5Dn1HM/20250919-224319.png"
+      "value": "https://files.catbox.moe/rinv3g.jpg"
     },
     
      "DESCRIPTION": {
