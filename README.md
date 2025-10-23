@@ -75,7 +75,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ---
 ## PREVIEW PHOTO 
 
-<a><img src='https://files.catbox.moe/rinv3g.jpg'/></a>
+<a><img src='https://files.catbox.moe/syqnie.png'/></a>
 ## ⭐ Support This Project
 If you like **NEBULA-MD**, please consider:
 - ⭐ Starring this repository
