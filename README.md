@@ -75,7 +75,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ---
 
 <p align="center">
-<a href="https://nebulabots.kesug.com/">
+<a href="https://nebulasession.zone.id/">
 <img src="https://img.shields.io/badge/GET%20SESSION%20ID-ff007f?style=for-the-badge&logo=keybase&logoColor=white">
 </a>
 </p>
