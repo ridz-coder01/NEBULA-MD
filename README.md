@@ -83,6 +83,13 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ---
 
 <table align="center">
+ <tr>
+    <td>
+      <a href="https://nebulasession.zone.id" target="_blank">
+ <img src="https://img.shields.io/badge/GET%20SESSION%20ID-ff007f?style=for-the-badge&logo=keybase&logoColor=white">
+      </a>
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/Ridz-coder01/NEBULA-XMD/archive/refs/heads/main.zip" target="_blank">
@@ -123,7 +130,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 📢 Get updates, fixes, and sneak peeks directly from the official channel.
 </p>
 
-<a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbBATdIJJhzOXep1c31K" target="_blank">
   <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
 </a>
 
@@ -161,7 +168,10 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 
 ---
 
-## 📜 DISCLAIMER
+<h2 align="center" style="color:#ff00ff; font-family:monospace; font-size:26px;">
+🚫 DISCLAIMER
+</h2>
+
 
 <div align="center" style="background-color:#0f0f0f; border:2px solid #00ffff; border-radius:10px; padding:20px; box-shadow:0 0 10px #00ffff;">
 
@@ -176,8 +186,9 @@ Inspired by the original work of <strong>Balleys</strong>, and enhanced by the c
 </div>
 
 ---
-
-## 📝 LICENSE
+<h2 align="center" style="color:#ff00ff; font-family:monospace; font-size:26px;">
+🧾 LICENSE 
+</h2>
 
 <div align="center" style="background-color:#101010; border:2px solid #888888; border-radius:10px; padding:15px; box-shadow:0 0 5px #666666;">
 
@@ -187,7 +198,7 @@ You are not allowed to use, modify, and distribute it under the terms of this li
 </p>
 
 <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
-  <img src="https://img.shields.io/badge/MIT License-ff69b4?style=for-the-badge&logo=apache" />
+  <img src="https://img.shields.io/badge/APACHE 2.0-ff69b4?style=for-the-badge&logo=apache" />
 </a>
 
 </div>
@@ -200,6 +211,5 @@ You are not allowed to use, modify, and distribute it under the terms of this li
   Made with ❤️ by <a href="https://github.com/ridz-coder01">Ridz Coder</a>
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
