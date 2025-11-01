@@ -82,70 +82,123 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 
 ---
 
-## 🚀 Features
-- ✅ **Group Management** — kick, ban, mute, promote/demote, anti-spam  
-- 🎯 **AI Chat & Auto-Replies** — intelligent, personalized responses  
-- 📥 **Media Downloader** — YouTube, TikTok, Instagram, Facebook  
-- 🎨 **Custom Commands** — make your own triggers & functions  
-- 📢 **Channel Broadcasting** — send messages to multiple groups/channels  
-- 🎮 **Fun & Games** — mini-games, memes, random facts  
-- ⚙️ **Developer Tools** — text-to-speech, URL shortener, QR code generator  
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Ridz-coder01/NEBULA-XMD/archive/refs/heads/main.zip" target="_blank">
+        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
+
+<hr>
+<p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
 
 ---
-## PREVIEW PHOTO 
 
-<a><img src='https://files.catbox.moe/syqnie.png'/></a>
-## ⭐ Support This Project
-If you like **NEBULA-MD**, please consider:
-- ⭐ Starring this repository
-- 🍴 Forking it
-- 📢 Sharing it with your friends
+## ✨ NEBULA-MD Features
 
-<p align="center">
-<a href="https://github.com/ridz-coder01/NEBULA-MD/stars">
-<img src="https://img.shields.io/github/stars/ridz-coder01/NEBULA-MD?style=for-the-badge">
-</a>
-<a href="https://github.com/ridz-coder01/NEBULA-MD/network/members">
-<img src="https://img.shields.io/github/forks/ridz-coder01/NEBULA-MD?style=for-the-badge">
-</a>
+- 🤖 WhatsApp Multi-Device Support
+- 🔁 Anti-Delete (Text + Media)
+- 🎵 YouTube Audio Downloader
+- 📥 Media Downloader (Instagram, TikTok, etc.)
+- 🧠 AI Chatbot
+- 💬 Group Moderation Commands
+- 📛 Auto Sticker Response
+- 🎮 Word Relay & Game Plugins
+- 👮 Admin Tools (Ban, Kick, Promote)
+- 🌐 Web-based Pairing Interface
+- 📤 Sticker Maker (Image to Sticker)
+
+---
+
+<h2 align="center" style="color:#25D366; font-family:monospace; font-size:26px;">
+🪀 OFFICIAL SUPPORT CHANNEL
+</h2>
+
+<div align="center" style="margin-top: 15px; margin-bottom: 15px; background:#0e0e0e; padding: 20px; border-radius: 12px; border: 2px solid #25D366; box-shadow: 0 0 15px #25D366; width: 95%;">
+
+<p style="color:#e0e0e0; font-size:14px; font-family:sans-serif;">
+📢 Get updates, fixes, and sneak peeks directly from the official channel.
 </p>
 
+<a href="https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j" target="_blank">
+  <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
+</a>
+
+</div>
+
 ---
 
-## 🛠️ About This Project
-> NEBULA-MD is a high-performance WhatsApp automation bot designed for speed, stability, and advanced features — perfect for both personal and professional use.
+<h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
+🧾 PROJECT STATS NEBULA-MD
+</h2>
+
+<div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
+
+<a href="https://github.com/ridz-coder01" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=ridz-coder01&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
+</a>
+
+</div>
 
 ---
 
-## 📌 Quick Links
-<p align="center">
-<a href="https://github.com/ridz-coder01/NEBULA-MD/issues">
-<img src="https://img.shields.io/badge/Report%20an%20Issue-ff0000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://github.com/ridz-coder01/NEBULA-MD/pulls">
-<img src="https://img.shields.io/badge/Contribute%20Code-00ffcc?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<h2 align="center" style="color:#ff00ff; font-family:monospace; font-size:26px;">
+🧠 DEVELOPER NOTICE
+</h2>
+
+<div align="center" style="background:#0d0d0d; border:2px dashed #ff00ff; border-radius:12px; padding:20px; width:90%; box-shadow:0 0 15px #ff00ff;">
+
+<p style="color:#ffffff; font-size:15px; font-family:sans-serif;">
+🚫 This project is <strong>NOT FOR SALE</strong> and is provided for educational and personal use only.<br><br>
+📛 <strong>Do not use without giving proper credit</strong> to the original author.<br><br>
+🛑 Unauthorized selling, re-uploading, or branding as your own is strictly prohibited.
 </p>
 
+</div>
+
 ---
 
-## 🛠 Installation
-```bash
-# 1. Clone Repo
-git clone https://github.com/Ridz-coder01/NEBULA-MD
+## 📜 DISCLAIMER
 
-# 2. Open Folder
-cd NEBULA-MD
+<div align="center" style="background-color:#0f0f0f; border:2px solid #00ffff; border-radius:10px; padding:20px; box-shadow:0 0 10px #00ffff;">
 
-# 3. Install Dependencies
-npm install
+<h3 style="color:#00ffff; font-family:monospace;">📌 Read Carefully</h3>
 
-# 4. Start Bot
-node index.js
-```
+<p style="color:#ffffff; font-size:14px;">
+This bot is <strong>not affiliated with WhatsApp Inc.</strong><br>
+Use at your own risk. We are <strong>not responsible</strong> for any misuse, abuse, or ban that results from improper use.<br>
+Inspired by the original work of <strong>Balleys</strong>, and enhanced by the community.
+</p>
+
+</div>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,50:00ffff,100:8a2be2&height=200&section=footer&text=Thanks%20for%20visiting%20🎭&fontSize=28&fontColor=ffffff&fontFamily=Orbitron&animation=twinkling" width="100%"/>
+## 📝 LICENSE
+
+<div align="center" style="background-color:#101010; border:2px solid #888888; border-radius:10px; padding:15px; box-shadow:0 0 5px #666666;">
+
+<p style="color:#ffffff; font-size:14px;">
+This project is licensed under the <strong>MIT License</strong><br>
+You are not allowed to use, modify, and distribute it under the terms of this license.
+</p>
+
+<a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
+  <img src="https://img.shields.io/badge/MIT License-ff69b4?style=for-the-badge&logo=apache" />
+</a>
+
+</div>
+
+---
+
+<h3 align="center">🙏 Thanks for using!</h3>
+<p align="center">
+  If you like this project, consider giving it a ⭐ on GitHub.<br>
+  Made with ❤️ by <a href="https://github.com/ridz-coder01">Ridz Coder</a>
+</p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
