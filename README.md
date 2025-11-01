@@ -66,22 +66,6 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 
 ---
 
-## FOR PANEL DEPLOYMENT
-- Click on **[DOWNLOAD](https://nebulabots.kesug.com)** to get zip file🗃.
-- Create a server on your panel
-- Upload zip file 🗃️
-- Unzip it and others
-- Start server
----
-
-<p align="center">
-<a href="https://nebulasession.zone.id/">
-<img src="https://img.shields.io/badge/GET%20SESSION%20ID-ff007f?style=for-the-badge&logo=keybase&logoColor=white">
-</a>
-</p>
-
----
-
 <table align="center">
  <tr>
     <td>
