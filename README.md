@@ -73,6 +73,10 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 
 ---
 
+<hr>
+<p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
+
+---
 <table align="center">
  <tr>
     <td>
@@ -83,11 +87,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
   </tr>
 </table>  
 
-<hr>
-<p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
-
----
-
+___
 ## ✨ NEBULA-MD Features
 
 - 🤖 WhatsApp Multi-Device Support
