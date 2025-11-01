@@ -44,7 +44,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>NEBULA-MD</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>NEBULA ASSASSIN</strong> with one click on your favorite hosting platforms.</p>
 
 
 <div align="center">
