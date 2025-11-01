@@ -61,6 +61,13 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
       <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
       <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
+ <tr>
+    <td>
+      <a href="https://github.com/Ridz-coder01/NEBULA-XMD/archive/refs/heads/main.zip" target="_blank">
+        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
   </table>
 </div>
 
@@ -71,13 +78,6 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
     <td>
       <a href="https://nebulasession.zone.id" target="_blank">
  <img src="https://img.shields.io/badge/GET%20SESSION%20ID-ff007f?style=for-the-badge&logo=keybase&logoColor=white">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Ridz-coder01/NEBULA-XMD/archive/refs/heads/main.zip" target="_blank">
-        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
       </a>
     </td>
   </tr>
