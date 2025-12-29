@@ -23,8 +23,6 @@ global.creator = "263714732501@s.whatsapp.net"
 global.vprefix = '.'
 global.premium = ["263714732501","256742634089"] // Premium User
 global.hituet = 0
-global.typemenu = 'v12' // menu type 'v1' => 'v12'
-global.typereply = 'v1' // reply type 'v1' => 'v4'
 global.autoblocknumber = '1'
 global.antiforeignnumber = '1'
 global.welcome = true
@@ -39,7 +37,7 @@ global.mess = {
     error: 'Error! Please try again later',
     success: 'Here you go!'
 }
-global.thumb = fs.readFileSync('./Media/theme/vero.jpg')
+global.thumb = fs.readFileSync('./Media/theme/Nebula.png')
 
 
 let file = require.resolve(__filename)
