@@ -31,6 +31,8 @@ global.anticall = false
 global.autoswview = true
 global.adminevent = false
 global.groupevent = false
+global.typemenu = 'v12'
+global.typereply = 'v1'
 global.mess = {
         limit: 'Your limit is up!',
         nsfw: 'Hey Horny User Nsfw is disabled in this group, Please tell the admin to enable',
