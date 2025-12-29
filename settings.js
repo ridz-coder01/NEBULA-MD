@@ -6,7 +6,7 @@ global.ytname = "YT: Ridz-coder01"
 global.socialm = "GitHub: Ridz-coder01"
 global.location = "Africa,Kampala" 
 
-global.botname = 'NEXWRLD-MD' 
+global.botname = 'NEBULA-MD' 
 global.ownernumber = '237678687593'
 global.ownername = 'Rɪᴅᴢ Cᴏᴅᴇʀ❦'
 
