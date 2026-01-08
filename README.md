@@ -39,6 +39,10 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 <img src="http://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=550&lines=🚀+Multi-Functional+WhatsApp+Bot;🎯+Next-Gen+Automation+For+WhatsApp;💎+By+Ridz+Coder" alt="Typing Animation">
 </a>
 </p>
+> [! Important]
+>
+> You must put your bot number in the `settings.js` on line 11 for the bot to work 
+>
 
 ---
 ## 📡 DEPLOYMENT SITES
