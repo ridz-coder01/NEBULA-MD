@@ -40,7 +40,7 @@ global.mess = {
     error: 'Error! Please try again later',
     success: 'Here you go!'
 }
-global.thumb = fs.readFileSync('./Media/theme/Nebula.png')
+global.thumb = fs.readFileSync('./Media/theme/Nebula.png')//don't change this line MF 
 
 
 let file = require.resolve(__filename)
