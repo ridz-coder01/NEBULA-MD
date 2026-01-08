@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">NEXWRLD MD</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">NEBULA MD</h1>
 </p>
 
 <p align="center">
@@ -10,14 +10,14 @@
 
 <div align="center">
   <a href="https://github.com/Ridz-coder01/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ridz-coder01?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/NEXWRLD-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ridz-coder01/NEXWRLD-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/NEXWRLD-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ridz-coder01/NEXWRLD-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/NEXWRLD-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Ridz-coder01/NEXWRLD-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/Ridz-coder01/NEXWRLD-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/NEBULA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ridz-coder01/NEBULA-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/NEBULA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ridz-coder01/NEBULA-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/NEBULA-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Ridz-coder01/NEBULA-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/Ridz-coder01/NEBULA-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NEXWRLD-MD&label=VISITORS&style=flat-square&color=00ffff" /> 
+  <img src="https://komarev.com/ghpvc/?username=NEBULA-MD&label=VISITORS&style=flat-square&color=00ffff" /> 
 
 <!-- ✨ HOLOGRAPHIC ANIMATED HEADER -->
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -31,7 +31,7 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 > **CURRENT BOT VERSION ➜ `1.0.0. ⚡`**
 ---
 
-<a><img src='https://files.catbox.moe/pmxdyl.png'/></a>
+<a><img src='https://files.catbox.moe/t1ae76.jpg'/></a>
 
 <!-- ⚡ TYPING EFFECT -->
 <p align="center">
@@ -44,11 +44,11 @@ DON'T FORGET TO FORK 🍴 & STAR 🌟 OUR REPO🫠
 ## 📡 DEPLOYMENT SITES
 
 <p align="center">
-Deploy <strong>NEXWRLD MD</strong> on your preferred platform.
+Deploy <strong>NEBULA MD</strong> on your preferred platform.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ridz-coder01/NEXWRLD-MD/archive/refs/heads/main.zip">
+  <a href="https://github.com/Ridz-coder01/NEBULA-MD/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download_ZIP-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -87,7 +87,7 @@ Deploy <strong>NEXWRLD MD</strong> on your preferred platform.
   
 
 ___
-## ✨ NEXWRLD-MD Features
+## ✨ NEBULA MD FEATURES
 
 - 🤖 WhatsApp Multi-Device Support
 - 🔁 Anti-Delete (Text + Media)
