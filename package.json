@@ -15,7 +15,7 @@
     "author": "Ridz-coder01",
     "license": "MIT",
     "dependencies": {
-        "@whiskeysockets/baileys": "npm:@rexxhayanasi/elaina-baileys",
+      "@whiskeysockets/baileys": "6.6.0",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
         "anime-wallpaper": "^1.0.2",
