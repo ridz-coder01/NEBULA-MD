@@ -7,8 +7,8 @@ global.socialm = "GitHub: Ridz-coder01"
 global.location = "Africa,Kampala" 
 
 global.botname = 'NEBULA-MD' 
-global.ownernumber = '263714732501'
-global.botnumber = '256749482583'
+global.ownernumber = '237678687593'
+global.botnumber = ''//your bot number here
 global.ownername = 'Rɪᴅᴢ Cᴏᴅᴇʀ❦'
 
 global.websitex = "https://ridzcoder.zone.id"
@@ -19,11 +19,13 @@ global.wm = "ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴛᴏ Fᴀʀɪᴅᴀʜ🧝"
 global.botscript = 'https://github.com/ridz-coder01/NEBULA-MD'
 global.packname = "Rɪᴅᴢ Cᴏᴅᴇʀ❦"
 
-global.author = "Rɪᴅᴢ Cᴏᴅᴇʀ❦\n\n+263714732501"
+global.author = "Rɪᴅᴢ Cᴏᴅᴇʀ❦\n\n+237678687593"
 global.creator = "263714732501@s.whatsapp.net"
 global.vprefix = '.'
-global.premium = ["263714732501","256742634089"] // Premium User
+global.premium = ["255611199851","237678687593"] // Premium User
 global.hituet = 0
+global.typemenu = 'v12' // menu type 'v1' => 'v12'
+global.typereply = 'v1' // reply type 'v1' => 'v4'
 global.autoblocknumber = '1'
 global.antiforeignnumber = '1'
 global.welcome = true
@@ -31,8 +33,6 @@ global.anticall = false
 global.autoswview = true
 global.adminevent = false
 global.groupevent = false
-global.typemenu = 'v12'
-global.typereply = 'v1'
 global.mess = {
         limit: 'Your limit is up!',
         nsfw: 'Hey Horny User Nsfw is disabled in this group, Please tell the admin to enable',
@@ -40,7 +40,7 @@ global.mess = {
     error: 'Error! Please try again later',
     success: 'Here you go!'
 }
-global.thumb = fs.readFileSync('./Media/theme/Nebula.png')//don't change this line MF 
+global.thumb = fs.readFileSync('./Media/theme/vero.jpg')
 
 
 let file = require.resolve(__filename)
