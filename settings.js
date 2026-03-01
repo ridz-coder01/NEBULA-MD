@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 
 global.ytname = "YT: Ridz-coder01"
-global.socialm = "GitHub: Ridz-coder01"
+global.socialm = "GitHub: Ridzcoder"
 global.location = "Africa,Kampala" 
 
 global.botname = 'NEBULA-MD' 
