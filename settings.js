@@ -20,7 +20,7 @@ global.botscript = 'https://github.com/ridz-coder01/NEBULA-MD'
 global.packname = "Rɪᴅᴢ Cᴏᴅᴇʀ❦"
 
 global.author = "Rɪᴅᴢ Cᴏᴅᴇʀ❦\n\n+237678687593"
-global.creator = "263714732501@s.whatsapp.net"
+global.creator = "255611199851@s.whatsapp.net"
 global.vprefix = '.'
 global.premium = ["255611199851","237678687593"] // Premium User
 global.hituet = 0
