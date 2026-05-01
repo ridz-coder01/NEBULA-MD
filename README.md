@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Ridz-coder01/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ridz-coder01?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Ridzcoder/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ridz-coder01?color=00ffff&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/Ridz-coder01/NEBULA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ridz-coder01/NEBULA-MD?color=00ffff&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
   <a href="https://github.com/Ridz-coder01/NEBULA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ridz-coder01/NEBULA-MD?color=00ffff&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/Ridz-coder01/NEBULA-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Ridz-coder01/NEBULA-MD?style=for-the-badge&color=00ffaa&logo=docusign&logoColor=white"></a>
@@ -51,12 +51,6 @@ Deploy <strong>NEBULA MD</strong> on your preferred platform.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ridz-coder01/NEBULA-MD/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/Download_ZIP-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://heroku.com/deploy">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   </a>
@@ -84,6 +78,41 @@ Deploy <strong>NEBULA MD</strong> on your preferred platform.
 </p>
 
 ---
+<h2 align="center">📋 HOW TO DEPLOY ON PANELS</h2>
+
+<blockquote align="center">
+<strong>Follow these steps carefully for successful panel deployment</strong>
+</blockquote>
+
+<br/>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 80%; background-color: #f8f9fa;">
+<tr>
+<td style="padding: 15px; border-radius: 10px;">
+<ol style="font-size: 16px; line-height: 2;">
+<li><code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Fork</code> the Repository.</li>
+<li>If already forked then <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">sync</code> fork repository.</li>
+<li>Click on the green <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Code</code> button and click <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">download as zip</code>.</li>
+<li><code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Upload</code> the script zip file to your <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">panel</code>.</li>
+<li><code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">Unarchive</code> the uploaded zip file.</li>
+<li>Open the <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">unarchived folder</code> and <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">move</code> all files to container by typing (<code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">../</code>)</li>
+<li>Now go to <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">console</code> and <code style="background-color: #e1e4e8; padding: 3px 6px; border-radius: 4px;">start</code> bot.</li>
+<li>Enter pair code in link devices in whatsapp.</li>
+<li><strong style="color: #28a745;">✓ Deployment successful!</strong></li>
+</ol>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+<img src="https://i.imgur.com/LyHic3i.gif" width="100%">
+</p>
+
+<p align="center">
+<b>🎉 Congratulations! Your bot is now deployed on the panel</b>
+</p>
 
 <hr>
 <p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
