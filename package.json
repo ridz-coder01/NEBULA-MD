@@ -1,6 +1,6 @@
 {
-    "name": "NEXWRLD-MD",
-    "version": "1.0.0",
+    "name": "NEBULA-MD",
+    "version": "2.0.0",
     "description": "Whatsapp Bot",
     "main": "index.js",
     "type": "commonjs",
@@ -12,13 +12,13 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Ridz-coder01",
+    "author": "Ridz-coder",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
         "@vitalets/google-translate-api": "^9.2.0",
-        "@whiskeysockets/baileys": "npm:veron-baileys@latest",
+        "@whiskeysockets/baileys": "git+https://lyfe00011-admin@bitbucket.org/lyfe00011/baileys.git",
         "adm-zip": "^0.5.16",
         "anime-wallpaper": "^1.0.2",
         "api-dylux": "^1.4.4",
@@ -40,7 +40,7 @@
         "human-readable": "^0.2.1",
         "imgur": "2.3.0",
         "javascript-obfuscator": "^4.0.0",
-        "jimp": "^0.22.12",
+        "jimp": "^1.6.0",
         "jsdom": "^22.1.0",
         "lodash": "^4.17.21",
         "mal-scraper": "^2.11.4",
